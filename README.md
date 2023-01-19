@@ -7,7 +7,7 @@ Este é um projeto de organizador de arquivos com uma interface interativa. Com 
 <h2>Como utilizar</h2>
 
 - `1`: Faça o download do projeto
-- `2`: Execute o arquivo "organizador.exe"
+- `2`: Execute o arquivo "organizador de pasta.exe"
 - `3`: Selecione a pasta que deseja organizar
 - `4`: As pastas serão criadas automaticamente e os arquivos serão movidos para as pastas correspondentes
 
